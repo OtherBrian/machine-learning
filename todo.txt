@@ -7,7 +7,12 @@ Create scikit-stats.ipynb
 Create README
 
 Create requirements.txt
-
+    includes details of each package, each package written on each line.
+        numpy
+        matplotlib
+        sk-learn
+    Can specify the version, e.g.
+        numpy==1.1.0
 
 Scikit-Learn
 Pick 3 Scikit-Learn algorithms
@@ -32,3 +37,6 @@ Find 2 datasets
         Remove the labels for clustering    
         Check if I can use a Kaggle dataset (with appropriate references)
         Otherwise find a public license one (MIT, etc.)
+
+Add "render nbviewer" button to nbviewer version of notebook via the README.
+Add Binder badge too.
