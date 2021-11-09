@@ -1,9 +1,5 @@
 To Do List
 
-Create scikit-learn.ipynb
-
-Create scikit-stats.ipynb
-
 Create README
 
 Create requirements.txt
@@ -18,25 +14,14 @@ Scikit-Learn
 Pick 3 Scikit-Learn algorithms
     SVM - https://scikit-learn.org/stable/modules/svm.html
         Classification
-        Regression
     Random Forest -  https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees
         Introduce ensemble methods
         Introduce Decision Trees
         Classification
-        Regressiom
     K-Means - https://scikit-learn.org/stable/modules/clustering.html#k-means
         Clustering
 
-Visualizations
-    Create diagrams for each via Excalidraw
-    Use 2d visualizations
 
-Find 2 datasets
-    One for regression
-    One for classification
-        Remove the labels for clustering    
-        Check if I can use a Kaggle dataset (with appropriate references)
-        Otherwise find a public license one (MIT, etc.)
 
 Add "render nbviewer" button to nbviewer version of notebook via the README.
 Add Binder badge too.
