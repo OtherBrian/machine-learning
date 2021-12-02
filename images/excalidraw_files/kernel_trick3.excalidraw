@@ -25,6 +25,7 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElementIds": [],
+      "updated": 1638448289629,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -63,6 +64,7 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElementIds": [],
+      "updated": 1638448289629,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -101,6 +103,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289629,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -147,6 +150,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -193,6 +197,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -239,6 +244,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -285,6 +291,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -331,6 +338,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -377,6 +385,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448289630,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -422,7 +431,8 @@
       "seed": 1803980349,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -445,7 +455,8 @@
       "seed": 1476871667,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -468,7 +479,8 @@
       "seed": 57575101,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -491,7 +503,8 @@
       "seed": 363859859,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -514,7 +527,8 @@
       "seed": 1757980445,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -537,7 +551,8 @@
       "seed": 1657709875,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -560,7 +575,8 @@
       "seed": 1925167997,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -583,7 +599,8 @@
       "seed": 1724483283,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -606,7 +623,8 @@
       "seed": 1771389917,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "ellipse",
@@ -629,12 +647,13 @@
       "seed": 1457401363,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448289630
     },
     {
       "type": "text",
-      "version": 374,
-      "versionNonce": 1681653518,
+      "version": 378,
+      "versionNonce": 552439211,
       "isDeleted": false,
       "id": "rGz20V8XAXDqRZ6gGDZCH",
       "fillStyle": "hachure",
@@ -647,45 +666,48 @@
       "y": 219.6860809326172,
       "strokeColor": "#495057",
       "backgroundColor": "#868e96",
-      "width": 319,
+      "width": 317,
       "height": 50,
       "seed": 1294282291,
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448293993,
       "fontSize": 20,
       "fontFamily": 1,
-      "text": "Non-Linearly separable classes\nseparated via the Kernal Trick ",
+      "text": "Non-Linearly separable classes\nseparated via the Kernel Trick ",
       "baseline": 43,
       "textAlign": "left",
       "verticalAlign": "top"
     },
     {
-      "id": "f5hjTyFdvM9fEtsYvqZcC",
       "type": "ellipse",
-      "x": 642.885490746761,
-      "y": 351.1383208541985,
-      "width": 160.4052734375,
-      "height": 113.83776855468746,
-      "angle": 0,
-      "strokeColor": "#2b8a3e",
-      "backgroundColor": "transparent",
+      "version": 212,
+      "versionNonce": 1861002446,
+      "isDeleted": false,
+      "id": "f5hjTyFdvM9fEtsYvqZcC",
       "fillStyle": "hachure",
       "strokeWidth": 4,
       "strokeStyle": "dashed",
       "roughness": 0,
       "opacity": 100,
+      "angle": 0,
+      "x": 642.885490746761,
+      "y": 351.1383208541985,
+      "strokeColor": "#2b8a3e",
+      "backgroundColor": "transparent",
+      "width": 160.4052734375,
+      "height": 113.83776855468746,
+      "seed": 579205650,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "seed": 579205650,
-      "version": 212,
-      "versionNonce": 1861002446,
-      "isDeleted": false,
-      "boundElementIds": null
+      "boundElementIds": [],
+      "updated": 1638448289630
     }
   ],
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#ffffff"
-  }
+  },
+  "files": {}
 }

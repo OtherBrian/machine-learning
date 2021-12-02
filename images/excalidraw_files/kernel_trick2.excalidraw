@@ -25,6 +25,7 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElementIds": [],
+      "updated": 1638448243152,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -63,6 +64,7 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElementIds": [],
+      "updated": 1638448243152,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -101,6 +103,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243152,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -147,6 +150,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243152,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -193,6 +197,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243152,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -239,6 +244,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243153,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -285,6 +291,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243153,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -331,6 +338,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243153,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -377,6 +385,7 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448243153,
       "startBinding": null,
       "endBinding": null,
       "lastCommittedPoint": null,
@@ -422,7 +431,8 @@
       "seed": 1803980349,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -445,7 +455,8 @@
       "seed": 1476871667,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -468,7 +479,8 @@
       "seed": 57575101,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -491,7 +503,8 @@
       "seed": 363859859,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -514,7 +527,8 @@
       "seed": 1757980445,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -537,7 +551,8 @@
       "seed": 1657709875,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -560,7 +575,8 @@
       "seed": 1925167997,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -583,7 +599,8 @@
       "seed": 1724483283,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -606,7 +623,8 @@
       "seed": 1771389917,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "ellipse",
@@ -629,12 +647,13 @@
       "seed": 1457401363,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": []
+      "boundElementIds": [],
+      "updated": 1638448243153
     },
     {
       "type": "text",
-      "version": 342,
-      "versionNonce": 404442382,
+      "version": 344,
+      "versionNonce": 257089797,
       "isDeleted": false,
       "id": "rGz20V8XAXDqRZ6gGDZCH",
       "fillStyle": "hachure",
@@ -653,35 +672,42 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "boundElementIds": [],
+      "updated": 1638448247686,
       "fontSize": 20,
       "fontFamily": 1,
-      "text": "2D Non-Linearly separable classes\nchanged to 3D via Kernal Trick  ",
+      "text": "2D Non-Linearly separable classes\nchanged to 3D via Kernel Trick  ",
       "baseline": 43,
       "textAlign": "left",
       "verticalAlign": "top"
     },
     {
-      "id": "IBSZO-Dk5YqWp98mIGknN",
       "type": "line",
-      "x": 554.730224609375,
-      "y": 372.03652349306094,
-      "width": 350.25469970703125,
-      "height": 4.95745849609375,
-      "angle": 0,
-      "strokeColor": "#2b8a3e",
-      "backgroundColor": "transparent",
+      "version": 75,
+      "versionNonce": 504950930,
+      "isDeleted": false,
+      "id": "IBSZO-Dk5YqWp98mIGknN",
       "fillStyle": "hachure",
       "strokeWidth": 4,
       "strokeStyle": "dashed",
       "roughness": 0,
       "opacity": 100,
+      "angle": 0,
+      "x": 554.730224609375,
+      "y": 372.03652349306094,
+      "strokeColor": "#2b8a3e",
+      "backgroundColor": "transparent",
+      "width": 350.25469970703125,
+      "height": 4.95745849609375,
+      "seed": 1530120274,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "seed": 1530120274,
-      "version": 75,
-      "versionNonce": 504950930,
-      "isDeleted": false,
-      "boundElementIds": null,
+      "boundElementIds": [],
+      "updated": 1638448243153,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
       "points": [
         [
           0,
@@ -691,16 +717,12 @@
           350.25469970703125,
           -4.95745849609375
         ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": null,
-      "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": null
+      ]
     }
   ],
   "appState": {
     "gridSize": null,
     "viewBackgroundColor": "#ffffff"
-  }
+  },
+  "files": {}
 }
