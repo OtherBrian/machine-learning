@@ -8,18 +8,18 @@ This repository is Brian Doheny's submission for the 2021 Machine Learning modul
 
 ## Repository Contents
 
-**scikit-learn.ipynb:** A Jupyter Notebook introducing the Scikit-Learn Python library for machine learning, and three of the algorithms available in Scikit-Learn (Support Vector Classifiers, Random Forest Classifiers and KMeans Clustering). All of the data required for this notebook is generated within the notebook itself via Scikit-Learn.  The libraries required to run this notebook are contained within requirements.txt. You can also access this notebook via NBViewer:
+**scikit_learn.ipynb:** A Jupyter Notebook introducing the Scikit-Learn Python library for machine learning, and three of the algorithms available in Scikit-Learn (Support Vector Classifiers, Random Forest Classifiers and KMeans Clustering). All of the data required for this notebook is generated within the notebook itself via Scikit-Learn.  The libraries required to run this notebook are contained within requirements.txt. You can also access this notebook via NBViewer:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OtherBrian/machine-learning/blob/main/scikit-learn.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OtherBrian/machine-learning/blob/main/scikit_learn.ipynb)
 
-**scipy-stats.ipynb:** A Jupyter Notebook introducing the Scipy.Stats Python library for statistical analysis, as well as an introduction to hypothesis testing and ANOVA. The datasets used for this notebook are contained within the datasets folder, and the libraries required to run this notebook are contained within requirements.txt.
+**scipy_stats.ipynb:** A Jupyter Notebook introducing the Scipy.Stats Python library for statistical analysis, as well as an introduction to hypothesis testing and ANOVA. The datasets used for this notebook are contained within the datasets folder, and the libraries required to run this notebook are contained within requirements.txt.
 
-**Datasets folder:** Contains three datasets which are used in the scipy-stats.ipynb to demonstrate ANOVA. The three datasets are:
-* **Diet dataset (Diet_R.csv)** - This dataset was sourced from [Sheffield University](https://www.sheffield.ac.uk/mash/statistics/datasets) and is a toy dataset containing 78 observations across 3 variations of diet. This dataset is already very tidy and ideal for ANOVA, and so is used for a general overview.
+**Datasets folder:** Contains three datasets which are used in the scipy_stats.ipynb to demonstrate ANOVA. The three datasets are:
+* **Diet dataset (diet.csv)** - This dataset was sourced from [Sheffield University](https://www.sheffield.ac.uk/mash/statistics/datasets) and is a toy dataset containing 78 observations across 3 variations of diet. This dataset is already very tidy and ideal for ANOVA, and so is used for a general overview.
 * **Students dataset (students.csv)** - This dataset was sourced from [Freie Universität Berlin](https://www.geo.fu-berlin.de/en/v/soga/Basics-of-statistics/ANOVA/One-way-ANOVA-Hypothesis-Test/index.html) and contains 8239 observations of student salaries alongside key variables from their time in college. This dataset requires some cleaning (as is done in the notebook) and is used for a more thorough, and more realistic introduction to using ANOVA.
-* **Irish Weather dataset (hrly_irish_weather.csv)** - This dataset was sourced from [Kaggle](https://www.kaggle.com/conorrot/irish-weather-hourly-data) and contains the hourly weather measurements across various locations in Ireland. The csv contained in this depository has been trimmed massively, and now only contains measurements from Athenry. This dataset is only used as an example of the limitations of the Shapiro-Wilk test (introduced in the scipy-stats.ipynb) and shows an alternative test.
+* **Irish Weather dataset (irish_weather.csv)** - This dataset was sourced from [Kaggle](https://www.kaggle.com/conorrot/irish-weather-hourly-data) and contains the hourly weather measurements across various locations in Ireland. The csv contained in this depository has been trimmed massively, and now only contains measurements from Athenry. This dataset is only used as an example of the limitations of the Shapiro-Wilk test (introduced in the scipy-stats.ipynb) and shows an alternative test.
 
-**Images folder:** Contains illustrations that are used throughout the two Jupyter Notebooks. All illustrations were created myself via [Excalidraw](https://excalidraw.com/). Each illustration is included as a png file for use, as well as an excalidraw file which can be opened in Excalidraw and edited.
+**Images folder:** Contains illustrations that are used throughout the two Jupyter Notebooks. All illustrations were created myself via [Excalidraw](https://excalidraw.com/). Each illustration is included as a png file for use, and the original excalidraw file are contained within the excalidraw_files folder, and these can be opened in Excalidraw and edited or updated.
 
 **requirements.txt:** The Python libraries required to run both of the above mentioned Jupyter Notebooks. This can be used to set up a virtual environment to run the notebooks in. You can find mroe details on this below.
 
@@ -53,7 +53,7 @@ Alternatively you can install all of these packages via the requirements.txt fil
 
 Finally, if you intend to use Python for data analysis in future, you may consider installing Anaconda. This includes many of the most popular libraries for data science and analytics in one handy package. [You can install Anaconda from here](https://www.anaconda.com/products/individual). 
 
-**Note: The Pinguoin library is not included in Anaconda at present, and so will need to be installed via one of the two above methods regardless. This library is used to show the Games-Howell Post-Hoc Multiple Comparisons test in scipy-stats.ipynb.**
+**Note: The Pinguoin library is not included in Anaconda at present, and so will need to be installed via one of the two above methods regardless. This library is used to show the Games-Howell Post-Hoc Multiple Comparisons test in scipy_stats.ipynb.**
 
 ### Cloning the repistory and running it on a local machine
 
