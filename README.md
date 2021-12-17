@@ -8,11 +8,25 @@ This repository is Brian Doheny's submission for the 2021 Machine Learning modul
 
 ## Repository Contents
 
-**scikit_learn.ipynb:** A Jupyter Notebook introducing the Scikit-Learn Python library for machine learning, and three of the algorithms available in Scikit-Learn (Support Vector Classifiers, Random Forest Classifiers and KMeans Clustering). All of the data required for this notebook is generated within the notebook itself via Scikit-Learn.  The libraries required to run this notebook are contained within requirements.txt. You can also access this notebook via NBViewer:
+**scikit_learn.ipynb:** A Jupyter Notebook introducing the Scikit-Learn Python library for machine learning, and three of the algorithms available in Scikit-Learn (Support Vector Classifiers, Random Forest Classifiers and KMeans Clustering). All of the data required for this notebook is generated within the notebook itself via Scikit-Learn.  The libraries required to run this notebook are contained within requirements.txt. 
+
+You can also access this notebook via NBViewer:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OtherBrian/machine-learning/blob/main/scikit_learn.ipynb)
 
+Or you can view an interactive version via Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OtherBrian/machine-learning/49d445dafa1b5e5217dee9183dbbc5625e66f4cf)
+
 **scipy_stats.ipynb:** A Jupyter Notebook introducing the Scipy.Stats Python library for statistical analysis, as well as an introduction to hypothesis testing and ANOVA. The datasets used for this notebook are contained within the datasets folder, and the libraries required to run this notebook are contained within requirements.txt.
+
+You can also access this notebook via NBViewer:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/OtherBrian/machine-learning/blob/main/scipy_stats.ipynb)
+
+Or you can view an interactive version via Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OtherBrian/machine-learning/49d445dafa1b5e5217dee9183dbbc5625e66f4cf)
 
 **Datasets folder:** Contains three datasets which are used in the scipy_stats.ipynb to demonstrate ANOVA. The three datasets are:
 * **Diet dataset (diet.csv)** - This dataset was sourced from [Sheffield University](https://www.sheffield.ac.uk/mash/statistics/datasets) and is a toy dataset containing 78 observations across 3 variations of diet. This dataset is already very tidy and ideal for ANOVA, and so is used for a general overview.
