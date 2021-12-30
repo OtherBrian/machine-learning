@@ -33,9 +33,9 @@ Or you can view an interactive version via Binder:
 * **Students dataset (students.csv)** - This dataset was sourced from [Freie Universität Berlin](https://www.geo.fu-berlin.de/en/v/soga/Basics-of-statistics/ANOVA/One-way-ANOVA-Hypothesis-Test/index.html) and contains 8239 observations of student salaries alongside key variables from their time in college. This dataset requires some cleaning (as is done in the notebook) and is used for a more thorough, and more realistic introduction to using ANOVA.
 * **Irish Weather dataset (irish_weather.csv)** - This dataset was sourced from [Kaggle](https://www.kaggle.com/conorrot/irish-weather-hourly-data) and contains the hourly weather measurements across various locations in Ireland. The csv contained in this depository has been trimmed massively, and now only contains measurements from Athenry. This dataset is only used as an example of the limitations of the Shapiro-Wilk test (introduced in the scipy-stats.ipynb) and shows an alternative test.
 
-**Images folder:** Contains illustrations that are used throughout the two Jupyter Notebooks. All illustrations were created myself via [Excalidraw](https://excalidraw.com/). Each illustration is included as a png file for use, and the original excalidraw file are contained within the excalidraw_files folder, and these can be opened in Excalidraw and edited or updated.
+**Images folder:** Contains illustrations that are used throughout the two Jupyter Notebooks. All illustrations were created myself via [Excalidraw](https://excalidraw.com/). Each illustration is included as a png file for use, and the original excalidraw files are contained within the excalidraw_files folder, and these can be opened in Excalidraw and edited or updated.
 
-**requirements.txt:** The Python libraries required to run both of the above mentioned Jupyter Notebooks. This can be used to set up a virtual environment to run the notebooks in. You can find mroe details on this below.
+**requirements.txt:** The Python libraries required to run both of the above mentioned Jupyter Notebooks. This can be used to set up a virtual environment to run the notebooks in. You can find more details on this below.
 
 **README.md:** You are currently reading this file. It provides an overview of this repository and its contents.
 
@@ -67,9 +67,9 @@ Alternatively you can install all of these packages via the requirements.txt fil
 
 Finally, if you intend to use Python for data analysis in future, you may consider installing Anaconda. This includes many of the most popular libraries for data science and analytics in one handy package. [You can install Anaconda from here](https://www.anaconda.com/products/individual). 
 
-**Note: The Pinguoin library is not included in Anaconda at present, and so will need to be installed via one of the two above methods regardless. This library is used to show the Games-Howell Post-Hoc Multiple Comparisons test in scipy_stats.ipynb.**
+**Note: The Pinguoin and Scikit-Posthocs libraries are not included in Anaconda at present, and so will need to be installed via one of the two above methods regardless. These libraries are used to show the Games-Howell Post-Hoc Multiple Comparisons test and Dunn's test in scipy_stats.ipynb.**
 
-### Cloning the repistory and running it on a local machine
+### Cloning the repository and running it on a local machine
 
 You can clone the repository to your local device by clicking the green "Code" button found in the top right section of the screen. Here you'll be given multiple options on how you wish to clone the repository. You can find details on each of these options in [GitHub's documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
@@ -83,7 +83,7 @@ Once in the repository, open a Jupyter Notebook session by typing the following 
 
 ```jupyter notebook```
 
-This will launch a Jupyter Notebook environment in your browser. From here you can open all of the files within the repository, and it shoud look something like this:
+This will launch a Jupyter Notebook environment in your browser. From here you can open all of the files within the repository, and it should look something like this:
 
 ![Jupyter Notebook folders](https://screenshot.click/29_18-xj4g2-zo1tz.jpg)
 
@@ -91,7 +91,7 @@ You can then open the ipynb files by double clicking them. When you first open t
 
 ![Reset kernel and clear output](https://screenshot.click/29_21-kfa64-lzcaw.jpg)
 
-You can then choose to either "Run" all of the cells by going into th "Cell" menu and selecting "Run All". This will run the code in each cell and thus generate output. Alternatively you can go through the notebook cell by cell and run their contents in turn by selecting the cell are pressing Shit+Enter on your keyboard. 
+You can then choose to either "Run" all of the cells by going into the "Cell" menu and selecting "Run All". This will run the code in each cell and thus generate output. Alternatively you can go through the notebook cell by cell and run their contents in turn by selecting the cell and pressing Shift+Enter on your keyboard. 
 
 **Note: The code cells should be run in order, as later cells rely on code from prior cells. Running the cells out of order will lead to errors. If you are encountering such errors and can't work out which cell is causing it, consider going to the "Kernel" menu and selecting "Restart Kernel and Run All".**
 
@@ -99,7 +99,7 @@ You can then choose to either "Run" all of the cells by going into th "Cell" men
 
 ### Viewing the notebooks via NBViewer
 
-Both notebooks are also available via NBViewer. This renders the notebook so that it can accessed via a URL, although the cells cannot be interacted with like in a live Jupyter Notebook. You can find the NBViewer links via the buttons at the top of the two notebooks, or in the Repository Contents section above.
+Both notebooks are also available via NBViewer. This renders the notebook so that it can be accessed via a URL, although the cells cannot be interacted with like in a live Jupyter Notebook. You can find the NBViewer links via the buttons at the top of the two notebooks, or in the Repository Contents section above.
 
 ### Viewing the notebooks via Binder
 
